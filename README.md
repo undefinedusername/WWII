@@ -1,14 +1,10 @@
 # WWII
 World War II final project - Navajo Code Talkers
 
-<dl>
-<script src="https://raw.githubusercontent.com/undefinedusername/WWII/master/https/docs.google.com/document/d/15lIp6R2AVRCqHzryiuEoGUElcj4qNKL81L2faAWNSDQ/edit/link.js"></script>
-  <script src="https://raw.githubusercontent.com/undefinedusername/WWII/master/https/docs.google.com/document/d/1Cl8kWrI55PHPqUyl8Jcr7TO9f7zsCis1y1G5mB3NguA/edit/link.js"></script>
-    <script src="https://raw.githubusercontent.com/undefinedusername/WWII/master/assets/js/openpage.js"></script>
-  <style></style>
-<body><footer id="nav"><button id="doc1" onclick="openpage(link)">Open Google doc1</button><button id="doc2" onclick="openpage(link2)">Open Google Doc2</button></footer></body>
-</dl>
-
+```javascript
+var s= "Bullshit";
+alert(s);
+```
 
 formatting : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
