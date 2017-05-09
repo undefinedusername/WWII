@@ -1,9 +1,13 @@
 # WWII
 World War II final project - Navajo Code Talkers
 
-```javascript
-var s= "Bullshit";
-alert(s);
+```php
+class WWIII {
+private $ww;
+public function WorldWar(){
+return $ww;
+}
+}
 ```
 
 formatting : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
